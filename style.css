@@ -1,0 +1,27 @@
+.title{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px ;
+    box-shadow: 5px 5px 20px rgb(0, 204, 255);
+    background-color: rgba(0, 17, 255, 0.685);
+}
+.head{
+    font-size: 15px;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 17, 255, 0.685);
+    line-height: 3;
+    color: white;
+}
+body{
+    background-color: rgb(150, 173, 248);
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(0, 153, 255);
+}
